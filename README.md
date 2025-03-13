@@ -35,6 +35,10 @@ Passionate about protecting digital assets and understanding attack patterns. Cu
 - **PDF Merger & Splitter**  
   Combine multiple PDFs,  split large documents and extract certain pages from PDFs
 
+### 🎮 Games
+- **Tic Tac Toe**  
+  Classic game implementation with interactive interface and unbeatable AI
+
 ## 📚 Currently Learning
 - Deepening my cybersecurity knowledge
 - Exploring ethical hacking tools
